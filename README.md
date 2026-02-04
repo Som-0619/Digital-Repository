@@ -7,22 +7,22 @@ ProRepo is an AI-powered platform built to showcase student projects, evaluate i
 
 ---
 
-## 📸 Platform Preview
+##  Platform Preview
 
-### 🔐 Authentication & Landing
+###  Authentication & Landing
 ![pro repo](https://github.com/user-attachments/assets/0d84de3a-3715-4a62-9138-47ea9f41f86e)
 
 
-### 📊 Student Dashboard & Portfolio Overview
+###  Student Dashboard & Portfolio Overview
 ![pro repo 1](https://github.com/user-attachments/assets/bdfae9aa-20f3-43bf-8741-fe32e3716229)
 
-### 💼 AI-Matched Jobs & Opportunities
+###  AI-Matched Jobs & Opportunities
 
 ![pro repo 2](https://github.com/user-attachments/assets/cc009fbe-d399-489b-bd0a-5135dcb80348)
 
 ---
 
-## 🧠 What Problem Does ProRepo Solve?
+##  What Problem Does ProRepo Solve?
 
 Students build great projects — but:
 - They remain scattered across GitHub, PDFs, and drives  
@@ -33,7 +33,7 @@ Students build great projects — but:
 
 ---
 
-## 🎯 Core Objectives
+##  Core Objectives
 
 - Centralized, intelligent project showcasing  
 - AI-based evaluation beyond grades and resumes  
@@ -43,7 +43,7 @@ Students build great projects — but:
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 ### 1️⃣ Intelligent Project Ingestion
 Students upload:
@@ -103,7 +103,7 @@ Students stay in control — opt in or out freely.
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 - **Machine Learning & AI** – scoring, matching, evaluation  
 - **NLP** – domain tagging & content understanding  
@@ -113,7 +113,7 @@ Students stay in control — opt in or out freely.
 
 ---
 
-## 🌱 Future Roadmap
+##  Future Roadmap
 
 - Public shareable profiles (LinkedIn-style)  
 - Gamification & badges  
