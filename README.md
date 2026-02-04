@@ -1,4 +1,4 @@
-# 🚀 PROREPO  
+#  PROREPO  
 ### AI-Driven Repository & Talent Discovery Platform for Student Innovators
 
 > **Where Innovation Meets Opportunity**
