@@ -20,6 +20,13 @@ ProRepo is an AI-powered platform built to showcase student projects, evaluate i
 
 ![pro repo 2](https://github.com/user-attachments/assets/cc009fbe-d399-489b-bd0a-5135dcb80348)
 
+### More Picutres 
+
+<img width="1280" height="619" alt="WhatsApp Image 2025-11-19 at 15 37 29" src="https://github.com/user-attachments/assets/07e5e5bd-fdb0-46ce-81a4-d22a282c0bec" />
+<img width="1280" height="615" alt="WhatsApp Image 2025-11-19 at 15 36 30" src="https://github.com/user-attachments/assets/28faa7ad-7c48-4173-bb0d-16a18d48ea35" />
+<img width="1280" height="613" alt="WhatsApp Image 2025-11-19 at 15 33 54" src="https://github.com/user-attachments/assets/377d14a7-aeea-445d-a01d-0895f35d5f32" />
+<img width="1280" height="618" alt="WhatsApp Image 2025-11-19 at 15 32 41" src="https://github.com/user-attachments/assets/fe7ecbbc-28bc-454a-95ae-99f35a6d314d" />
+
 ---
 
 ##  What Problem Does ProRepo Solve?
