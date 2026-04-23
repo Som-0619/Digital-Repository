@@ -35,6 +35,105 @@ Students build great projects — but:
 - They remain scattered across GitHub, PDFs, and drives  
 - There’s no **standard way to measure innovation**
 - Recruiters struggle to filter *signal from noise*
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
+
+**ProRepo fixes this** by acting as an **AI-first innovation layer** between students and industry.
+
+---
+
+##  Core Objectives
+
+- Centralized, intelligent project showcasing  
+- AI-based evaluation beyond grades and resumes  
+- Domain-wise growth tracking and ranking  
+- Direct connection to mentors, companies, and funding  
+- Encourage multidisciplinary and project-based learning  
+
+---
+
+##  How It Works
+
+### 1️⃣ Intelligent Project Ingestion
+Students upload:
+- Documentation  
+- Images & demos  
+- Videos or walkthroughs  
+
+AI analyzes submissions to extract:
+- Tech stack  
+- Problem domain  
+- Complexity & scalability  
+- Innovation depth  
+
+---
+
+### 2️⃣ Domain Classification & Portfolio Building
+Using NLP and clustering:
+- Projects are auto-tagged (AI/ML, Sustainability, FinTech, etc.)
+- Each student builds a **living innovation portfolio**
+- Growth is tracked **over time**, not one-off
+
+---
+
+### 3️⃣ Adaptive Ranking Engine
+Scores are calculated using:
+- Innovation frequency  
+- Cross-domain work  
+- Peer & industry feedback  
+
+✅ New domain = new ranking thread  
+✅ No penalty for exploring multiple domains  
+
+---
+
+### 4️⃣ Industry & Opportunity Matching
+Companies post:
+- Internships  
+- Challenges  
+- Sponsored problems  
+
+AI matches students based on:
+- Project relevance  
+- Skill depth  
+- Domain history  
+
+Students stay in control — opt in or out freely.
+
+---
+
+## ✅ Expected Impact
+
+- Fair, transparent innovation evaluation  
+- Stronger academia–industry bridge  
+- Resume-less talent discovery  
+- Continuous learning culture  
+- Scalable student innovation ecosystem  
+
+---
+
+##  Tech Stack
+
+- **Machine Learning & AI** – scoring, matching, evaluation  
+- **NLP** – domain tagging & content understanding  
+- **Clustering & Classification**  
+- **Backend & Databases** – portfolios, rankings, analytics  
+- **Frontend** – React / Flutter based UI  
+
+---
+
+##  Future Roadmap
+
+- Public shareable profiles (LinkedIn-style)  
+- Gamification & badges  
+- Peer collaboration & reviews  
+- Blockchain-based originality verification  
+- Grant & funding integration  
+
+---
+
+Note: Place all images inside an assets/ folder in your GitHub repository:
+
+```assets/
+├── proprepo-login.png
+├── proprepo-dashboard.png
+└── proprepo-jobs.png
+```
